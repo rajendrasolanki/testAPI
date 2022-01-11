@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.Divform {
+  margin: 10px;
+  padding: 10px;
+  height: 100px;
+  width: fit-content;
+  float: left;
+}
